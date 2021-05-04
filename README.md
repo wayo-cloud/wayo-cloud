@@ -9,8 +9,9 @@ wayo-cloud/wayo-cloud is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wayo-cloud&show_icons=true&theme=blue-green)](https://github.com/wayo-cloud)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/CloudWayo?style=social)](https://twitter.com/CloudWayo)
 
-[![GitHub wayo-cloud](https://img.shields.io/github/followers/wayo-cloud?label=follow&style=social)](https://github.com/wayo-cloud)
-[![Linkedin: imthepk](https://img.shields.io/badge/-wayo-cloud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/wayo-cloud/)](https://www.linkedin.com/company/wayo-cloud/)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=wayo-cloud&theme=blue-green)](https://github.com/wayo-cloud)
+
+
