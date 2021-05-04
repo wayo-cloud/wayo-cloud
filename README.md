@@ -15,10 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/CloudWayo?style=social)](https://twitter.com/CloudWayo)
-[![GitHub cayo-cloud](https://img.shields.io/github/followers/wayo-cloud?label=follow&style=social)](https://github.com/wayo-cloud)
-[![Linkedin: imthepk](https://img.shields.io/badge/-wayo.cloud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/wayo-cloud/)](https://www.linkedin.com/company/wayo-cloud/)
-
-
-[![website: imthepk](https://img.shields.io/website?up_message=wayo.cloud&url=https%3A%2F%2Fwayo.cloud%2F)](https://wayo.cloud/)
+[![Twitter: wayo.cloud](https://img.shields.io/twitter/follow/CloudWayo?style=social)](https://twitter.com/CloudWayo)
+[![GitHub: cayo-cloud](https://img.shields.io/github/followers/wayo-cloud?label=follow&style=social)](https://github.com/wayo-cloud)
+[![Linkedin: wayo.cloud](https://img.shields.io/badge/-wayo.cloud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/wayo-cloud/)](https://www.linkedin.com/company/wayo-cloud/)
+[![website: wayo.cloud](https://img.shields.io/website?up_message=wayo.cloud&url=https%3A%2F%2Fwayo.cloud%2F)](https://wayo.cloud/)
 
